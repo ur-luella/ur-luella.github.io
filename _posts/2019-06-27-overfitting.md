@@ -4,7 +4,8 @@ title: "Overfitting 문제에 대한 고민"
 excerpt: "딥러닝 모델링 중 overfitting 문제가 발생하였을 때 해결하기 위한 방법을 고민해보았습니다."
 tags: [blog]
 author: Luella
-comments
+comments: true
+---
 
 
 EHR(EMR)을 이용하여 타겟을 조기 예측하는 학위논문 연구 중 데이터의 overfitting 문제가 발생하였다. 나의 데이터에 어떤 문제가 있는지 고민해보았다.
