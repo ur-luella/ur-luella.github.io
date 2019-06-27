@@ -1,4 +1,9 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Network-based characterization of the relationship between drug-targets and perturbed genes
+  descr: "Find that the characterics of the two groups of genes are opposite and negatively correlated with each other in many sides"
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: #https://github.com/renyuanz/leonids
+
+- name: Chronic kidney disease risk prediction using electronic health records pattern information based on deep learning
+  descr: "Develop an early detection tool of chronic kidney diesase using deep learning methods, which utilize sequential information of electoronic health records"
+  image: pong.png
+  github: #https://github.com/renyuanz/leonids
