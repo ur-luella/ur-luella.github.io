@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Luella
+email: ur.luella@gmail.com
+description: 
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+#keywords: ["blog", "jekyll"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Luella
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
-  disqus-shortname:
+  job: "Deep Learning Engineer"
+  bio: ":)"
+  email: ur.luella@gmail.com
+  disqus-shortname: Luella
   twitter: #username
   facebook: #username
   google:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ur-luella
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: ur.luella
   lastfm: #username
   tumblr: #username
   pinterest: #username
