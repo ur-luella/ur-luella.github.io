@@ -7,14 +7,13 @@ title: Luella
 email: ur.luella@gmail.com
 description: Deep Learning Engeenier
 url: #ur-luella.github.io
-keywords: ["blog", "jekyll"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -36,9 +35,9 @@ owner:
   name: Luella
   avatar: leonids-logo.png
   job: "Deep Leaning Engineer"
-  bio: ""
+  bio: ":)"
   email: ur.luella@gmail.com
-  disqus-shortname:
+  disqus-shortname: Luella
   twitter: #username
   facebook: #username
   google:
