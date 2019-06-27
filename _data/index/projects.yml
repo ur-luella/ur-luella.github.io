@@ -1,9 +1,11 @@
-- name: Network-based characterization of the relationship between drug-targets and perturbed genes
-  descr: "Find that the characterics of the two groups of genes are opposite and negatively correlated with each other in many sides"
+- #name: Network-based characterization of the relationship between drug-targets and perturbed genes
+  descr: "Network-based characterization of the relationship between drug-targets and perturbed genes"
+  #descr: "Find that the characterics of the two groups of genes are opposite and negatively correlated with each other in many sides"
   image: pong.png
   github: #https://github.com/renyuanz/leonids
 
-- name: Chronic kidney disease risk prediction using electronic health records pattern information based on deep learning
-  descr: "Develop an early detection tool of chronic kidney diesase using deep learning methods, which utilize sequential information of electoronic health records"
+- #name: Chronic kidney disease risk prediction using electronic health records pattern information based on deep learning
+  descr: "Chronic kidney disease risk prediction using electronic health records pattern information based on deep learning"
+  #descr: "Develop an early detection tool of chronic kidney diesase using deep learning methods, which utilize sequential information of electoronic health records"
   image: pong.png
   github: #https://github.com/renyuanz/leonids
