@@ -3,10 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Luella
-email: ur.luella@gmail.com
-description: Deep Learning Engeenier
-url: #ur-luella.github.io
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
 #
 ###################################
@@ -15,7 +16,6 @@ url: #ur-luella.github.io
 #
 timezone:          Europe/Paris
 markdown:          kramdown
-#mathjax: true
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Luella
+  name: Leonids
   avatar: leonids-logo.png
-  job: "Deep Leaning Engineer"
-  bio: ":)"
-  email: ur.luella@gmail.com
-  disqus-shortname: Luella
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
+  disqus-shortname:
   twitter: #username
   facebook: #username
   google:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: ur-luella
+  github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: ur.luella
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
