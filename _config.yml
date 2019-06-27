@@ -15,6 +15,7 @@ url: #ur-luella.github.io
 #
 timezone:          Asia/Seoul
 markdown:          kramdown
+mathjax: true
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
