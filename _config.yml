@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: ur-luella
+  github: #ur-luella
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: ur.luella
+  instagram: #ur.luella
   lastfm: #username
   tumblr: #username
   pinterest: #username
