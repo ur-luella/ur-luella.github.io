@@ -4,7 +4,7 @@
 ####################################
 #
 title: Luella
-email: ur-luella@gmail.com
+email: ur.luella@gmail.com
 description: Deep Learning Engeenier
 url: ur-luella.github.io
 keywords: ["blog", "jekyll"]
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "Deep Leaning Engineer"
   bio: ""
-  email:
+  email: ur.luella@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -54,7 +54,7 @@ owner:
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: ur.luella
   lastfm: #username
   tumblr: #username
   pinterest: #username
