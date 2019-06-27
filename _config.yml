@@ -13,9 +13,9 @@ url: #ur-luella.github.io
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Seoul
+timezone:          Europe/Paris
 markdown:          kramdown
-mathjax: true
+#mathjax: true
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
