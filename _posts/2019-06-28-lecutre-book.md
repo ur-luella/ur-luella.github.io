@@ -3,6 +3,7 @@ layout: post
 title: "딥러닝 공부를 위한 도서/강의"
 excerpt: "지금까지 공부했던 것들을 정리하려 합니다."
 categories: [blog]
+tags: [deep learning, tensorflow]
 comments: true
 ---
 

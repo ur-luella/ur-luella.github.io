@@ -3,6 +3,7 @@ layout: post
 title: "Jekyll을 이용한 github 블로그 생성"
 excerpt: "간단한 방법으로 블로그를 만들었습니다."
 categories: [blog]
+tags: [jekyll]
 author: Luella
 comments: true
 ---
@@ -15,9 +16,9 @@ comments: true
 * Git 설치 : Git 설치는 [이곳](https://git-scm.com/)에서 Git에 대한 간단한 설명은 [이곳](https://backlog.com/git-tutorial/kr/)에서 확인할 수 있습니다.
 * Jekyll 설치: 터미널에 아래와 같이 입력합니다.
 
-	{% raw %}
-	sudo gem install jekyll
-	{% endraw %}
+		{% raw %}
+		sudo gem install jekyll
+		{% endraw %}
 
 
 ## Jekyll 테마 고르기
