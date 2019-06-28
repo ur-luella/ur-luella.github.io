@@ -24,11 +24,11 @@ comments: true
 ## Jekyll 테마 고르기
 이 부분에서 시간을 가장 많이 쏟았던 것 같습니다. 테마를 골라서 사용하다가 마음에 들지않아서 갈아엎고 다시 만들었습니다. Jekyll 테마는 [이곳](https://github.com/topics/jekyll-theme)에서 골라도 되고 구글링을 통해서도 마음에 드는 테마를 찾을 수 있습니다. 저는 enyuanz의 [leonids  테마](https://renyuanz.github.io/leonids)로 만들었습니다. 블로그이 용도에 따라서도 테마를 다르게 선택할 수 있습니다. 블로그의 주 용도를 논문내용이나 프로젝트의 생각들을 정리하기 위해서 카테고리로 나눌 수 있는 블로그로 선택하였습니다.
 
-![leonids](https://user-images.githubusercontent.com/41414127/60319273-c9c5fb80-99b0-11e9-8147-2f2015564b94.png)
+![leonids](https://user-images.githubusercontent.com/41414127/60320467-c46ab000-99b4-11e9-84a2-df22f5f0cd31.png)
 
 테마를 고른 후 해당 테마의 github repository에 가면 오른쪽 위에 fork가 있습니다. 누르면 제 github에 repository 그대로 복사되는데 그 상태에서 setting에 들어가 repository 이름을 수정하면 됩니다. 보통 github아이디 + .github.io를 붙입니다.
 
-![fork](https://user-images.githubusercontent.com/41414127/60319616-f3335700-99b1-11e9-9f9c-0b3333dbb1ca.png)
+![fork](https://user-images.githubusercontent.com/41414127/60320484-d0567200-99b4-11e9-9d87-3b441e0eb89c.png)
 
 ## 원격 저장소 만들고 파일 수정하기
 로컬에서 수정하기 위해 맥에 블로그용 폴더를 하나 만들 곳을 지정한 후 터미널을 열어 해당 폴더로 위치를 변경한 후 git을 통해 연결합니다. 조같은 경우 블로그용 파일을 저장하는 폴더 이름이 ur-luella입니다. 후에 글을 쓰거나 로컬에 있는 파일들을 수정할때 사용하게 되는 code들이 git add . / git commit -m " " / git push origin master이다. 순서대로 설명하자면, 로컬 변경사항을 git에게 알리기 / 변경사항에 대한 설명을 "설명"에 적어 커밋하기 / github에 push하여 내용 변경하기로 이해할 수 있습니다.
