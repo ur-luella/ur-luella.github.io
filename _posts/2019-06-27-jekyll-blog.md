@@ -12,9 +12,8 @@ comments: true
 블로그를 만들기 위해 찾다보니 아주 유용한 Jekyll을 알게 되었습니다. 테마도 예쁜게 많고 잘 만든 테마를 수정할 수 있다는 장점이 아주 매력적이다. 아직은 서툴지만 하나하나씩 차근차근 더 깊게 공부하려 합니다.
 
 ## Git과 Jekyll 설치
-1. Git 설치 : Git 설치는 [이곳](https://git-scm.com/)에서 Git에 대한 간단한 설명은 [이곳](https://backlog.com/git-tutorial/kr/)에서 확인할 수 있습니다.
-2. Jekyll 설치
-터미널에 아래와 같이 입력합니다.
+* Git 설치 : Git 설치는 [이곳](https://git-scm.com/)에서 Git에 대한 간단한 설명은 [이곳](https://backlog.com/git-tutorial/kr/)에서 확인할 수 있습니다.
+* Jekyll 설치: 터미널에 아래와 같이 입력합니다.
 
 	{% raw %}
 	sudo gem install jekyll
