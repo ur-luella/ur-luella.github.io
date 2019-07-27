@@ -5,7 +5,7 @@
 #
 title: Luella
 email: ur.luella@gmail.com
-description: I'm junior engineer :)
+description: I'm junior AI engineer :)
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Luella
   avatar: leonids-logo.png
-  job: "Deep Learning Engineer"
-  bio: "I'm junior engineer :)"
+  job: "AI Engineer"
+  bio: "I'm junior AI engineer :)"
   email: ur.luella@gmail.com
   disqus-shortname: Luella
   twitter: #username
