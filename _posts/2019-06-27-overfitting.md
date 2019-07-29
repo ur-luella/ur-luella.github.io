@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Overfitting 문제에 대한 고민"
-excerpt: "딥러닝 모델링 중 overfitting 문제가 발생하였을 때 해결하기 위한 방법을 고민해보았습니다."
+excerpt: "딥러닝 모델링 중 overfitting 문제가 발생하였을 때 해결하기 위한 방법"
 categories: [blog]
 tags: [overfitting]
 comments: true
 ---
 
 
-의료 데이터를 이용하여 타겟을 조기 예측하는 학위논문 연구 중 데이터의 overfitting 문제가 발생하여 어떻게 해결을 해야할지 고민하면서 공부했던 내용들을 정리해보려 합니다.
+의료 데이터를 이용하여 타겟을 조기 예측하는 학위논문 연구 중 데이터의 overfitting 문제가 발생하여 어떻게 해결을 해야할지 고민하면서 공부했던 내용들을 정리해보려 한다.
 
 ## 데이터의 수
 
