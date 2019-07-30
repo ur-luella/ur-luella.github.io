@@ -5,7 +5,6 @@
   top: 400px;
   z-index: 233;
   width: 100%;
-  margin-right: 20px;
   padding: 20px 20px 0;
   -webkit-transform: translate3d(0,0,1px);
   transform: translate3d(0,0,1px);
@@ -90,6 +89,7 @@ a.read-more {
 
 #post {
   padding-bottom: 50px;
+  margin-right: 20px;
   .post-header {
     margin: 0 auto 50px;
   }
@@ -110,6 +110,7 @@ a.read-more {
 
 #page {
   padding-bottom: 50px;
+  margin-right: 20px;
   min-height: 70vh;
   .page-header {
     margin: 0 auto 50px;
