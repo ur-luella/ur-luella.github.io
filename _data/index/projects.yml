@@ -1,14 +1,14 @@
-- name: Network analysis
-  descr: "Network-based characterization of the relationship between drug-targets and perturbed genes in DSigDB"
-  image: pong.png
-  github: #https://github.com/renyuanz/leonids
+#- name: Network analysis
+#  descr: "Network-based characterization of the relationship between drug-targets and perturbed genes in DSigDB"
+#  image: pong.png
+#  github: #https://github.com/renyuanz/leonids
 
-- name: Prediction of CKD
-  descr: "Chronic Kidney Disease Risk Prediction using Electronic Health Records Pattern Information based on Deep Learning"
-  image: pong.png
-  github: #https://github.com/renyuanz/leonids
+#- name: Prediction of CKD
+#  descr: "Chronic Kidney Disease Risk Prediction using Electronic Health Records Pattern Information based on Deep Learning"
+#  image: pong.png
+#  github: #https://github.com/renyuanz/leonids
 
-- name: Development of Medical Sequence Analyzer Tool
-  descr: "Development of automatic medical history analyzing tool to predict high-risk patients by using deep learning method from OHDSI-CDM databases"
-  image: pong.png
-  github: #https://github.com/renyuanz/leonids
+#- name: Development of Medical Sequence Analyzer Tool
+#  descr: "Development of automatic medical history analyzing tool to predict high-risk patients by using deep learning method from OHDSI-CDM databases"
+#  image: pong.png
+#  github: #https://github.com/renyuanz/leonids

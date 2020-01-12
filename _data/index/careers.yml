@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: EvidNet
-  link: https://www.evidnet.com
-  date: June 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Deep Learning Engineer
+#- name: EvidNet
+#  link: https://www.evidnet.com
+#  date: June 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+#  job: Deep Learning Engineer
 
-- name: Ajou University Hospital
-  link: http://hosp.ajoumc.or.kr
-  date: April 2019 - May 2019
-  job: Researcher
+#- name: Ajou University Hospital
+#  link: http://hosp.ajoumc.or.kr
+#  date: April 2019 - May 2019
+#  job: Researcher
 
-- name: Cha University
-  link: www.cha.ac.kr
-  date: Sep 2016 - Feb 2017
-  job: Intern
+#- name: Cha University
+#  link: www.cha.ac.kr
+#  date: Sep 2016 - Feb 2017
+#  job: Intern
