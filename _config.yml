@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Luella
+title: 연려
 email: ur.luella@gmail.com
-description: I'm junior AI engineer :)
+description: 하나하나 차근차근 :)
 url: # the base hostname & protocol for your site
 keywords: ["blog", "AI", "Deep learning"]
 
