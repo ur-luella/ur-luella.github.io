@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: 연려
+title: Luella
 email: ur.luella@gmail.com
-description: 하나하나 차근차근 :)
+description: I'm junior AI engineer :)
 url: # the base hostname & protocol for your site
 keywords: ["blog", "AI", "Deep learning"]
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: 연려
+  name: Luella
   avatar: leonids-logo.png
   job: "조그만 일상"
   bio: "하나하나 차근차근 :)"
