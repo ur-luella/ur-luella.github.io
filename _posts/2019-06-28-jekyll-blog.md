@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll을 이용한 github 블로그 생성"
 excerpt: "간단한 방법으로 블로그 만들기"
-categories: [blog]
+categories: [Blog]
 tags: [jekyll]
 comments: true
 ---

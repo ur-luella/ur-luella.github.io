@@ -2,7 +2,7 @@
 layout: post
 title: "Overfitting 문제에 대한 고민"
 excerpt: "딥러닝 모델링 중 overfitting 문제가 발생하였을 때 해결하기 위한 방법"
-categories: [blog]
+categories: [Deep learning]
 tags: [overfitting]
 comments: true
 ---
