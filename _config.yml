@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Luella
+  name: 연려
   avatar: leonids-logo.png
-  job: "AI Engineer"
-  bio: "I'm junior AI engineer :)"
+  job: "조그만 일상"
+  bio: "하나하나 차근차근 :)"
   email: ur.luella@gmail.com
   disqus-shortname: Luella
   twitter: #username
