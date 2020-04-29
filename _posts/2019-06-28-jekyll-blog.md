@@ -15,9 +15,9 @@ comments: true
 * Git 설치 : Git 설치는 [이곳](https://git-scm.com/)에서 Git에 대한 간단한 설명은 [이곳](https://backlog.com/git-tutorial/kr/)에서 확인할 수 있다.
 * Jekyll 설치: 터미널에 아래와 같이 입력한다.
 
-		{% raw %}
-		sudo gem install jekyll
-		{% endraw %}
+	{% raw %}
+	sudo gem install jekyll
+	{% endraw %}
 
 
 ## Jekyll 테마 고르기
@@ -32,15 +32,15 @@ comments: true
 ## 원격 저장소 만들고 파일 수정하기
 로컬에서 수정하기 위해 맥에 블로그용 폴더를 하나 만들 곳을 지정한 후 터미널을 열어 해당 폴더로 위치를 변경한 후 git을 통해 연결한다. 나같은 경우 블로그용 파일을 저장하는 폴더 이름이 ur-luella이다. 후에 글을 쓰거나 로컬에 있는 파일들을 수정할때 사용하게 되는 code들이 git add . / git commit -m " " / git push origin master이다. 순서대로 설명하자면, 로컬 변경사항을 git에게 알리기 / 변경사항에 대한 설명을 "설명"에 적어 커밋하기 / github에 push하여 내용 변경하기로 이해할 수 있다.
 
-	{% raw %}
-	git clone http://github.com/ur-luella/ur-luella.github.io.git #폴더이름 변경함 -> ur-luella
-	cd ur-luella # 폴더로 이동
-	git init 
-	git remote add origin http://github.com/ur-luella.github.io.git
-	git add .
-	git commit -m "저장소 연결"
-	git push orgin master
-	{% endraw %}
+{% raw %}
+git clone http://github.com/ur-luella/ur-luella.github.io.git #폴더이름 변경함 -> ur-luella
+cd ur-luella # 폴더로 이동
+git init 
+git remote add origin http://github.com/ur-luella.github.io.git
+git add .
+git commit -m "저장소 연결"
+git push orgin master
+{% endraw %}
 
 수정해야하는 폴더, 파일은 테마마다 다르기 때문에 참고용으로만 볼 것. 내 테마의 경우는 아래와 같다.
 * config.yml: 블로그의 구성 파일
@@ -52,24 +52,24 @@ comments: true
 
 두번째로는 글을 쓰기 위해 post폴더에 들어간다. leonids 테마는 YYYY-MM-DD-postname으로 형식이 되어있고 대부분 테마마다 예시 post가 있어 참고하면 된다. 코드를 입력하고 프로그래밍 언어를 입력하면 자동으로 하이라이트를 표시해준다는 것도 굉장한 장점인 듯 하다. 
 
-	{% highlight python %}
-	import numpy as np
+{% highlight python %}
+import numpy as np
 	a = np.arange(20).reshape([4,5])
 	print(a)
 	def test(num):
 	    return num
-	{% endhighlight %}
+{% endhighlight %}
 
 
 ## 로컬 변경 파일 push하기
 로컬에서 파일을 변경하고 블로그에 변경된 내용을 반영하기 위해 터미널에서 코드를 입력한다. 먼저 블로그 파일들을 저장한 폴더로 변경한 후 로컬 파일 변경된 것을 git으로 체크한 후 push한다. 블로그에 업데이트가 되었는지 확인하면 끝! 블로그가 업데이트 되는데는 다소 시간이 걸릴 때가 있다.
 
-	{% raw %}
-	cd ur-luella
-	git add .
-	git commit -m "새글 추가" # "" 안에 수정된 내용 작성
-	git push orgin master 
-	{% endraw %}
+{% raw %}
+cd ur-luella
+git add .
+git commit -m "새글 추가" # "" 안에 수정된 내용 작성
+git push orgin master 
+{% endraw %}
 
 
 ## 마치며
