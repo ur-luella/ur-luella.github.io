@@ -57,19 +57,19 @@ import numpy as np
 a = np.arange(20).reshape([4,5])
 print(a)
 def test(num):
-	return num
+return num
 {% endhighlight %}
 
 
 ## 로컬 변경 파일 push하기
 로컬에서 파일을 변경하고 블로그에 변경된 내용을 반영하기 위해 터미널에서 코드를 입력한다. 먼저 블로그 파일들을 저장한 폴더로 변경한 후 로컬 파일 변경된 것을 git으로 체크한 후 push한다. 블로그에 업데이트가 되었는지 확인하면 끝! 블로그가 업데이트 되는데는 다소 시간이 걸릴 때가 있다.
 
-{% raw %}
-cd ur-luella
-git add .
-git commit -m "새글 추가" # "" 안에 수정된 내용 작성
-git push orgin master 
-{% endraw %}
+	{% raw %}
+	cd ur-luella
+	git add .
+	git commit -m "새글 추가" # "" 안에 수정된 내용 작성
+	git push orgin master 
+	{% endraw %}
 
 
 ## 마치며
