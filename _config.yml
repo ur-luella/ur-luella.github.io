@@ -69,9 +69,3 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-
-################
- paginate: 5
- paginate_path : "/page:num/"
- gems:
-   - jekyll-paginate 
