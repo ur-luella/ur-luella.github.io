@@ -1,20 +1,67 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+
+<url>
+  <loc>https://ur-luella.github.io/</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/archive/</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/categories/</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/tags/</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2020-08/error-65534</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2020-08/year-of-2016</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2020-01/max-width</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2019-07/tmux</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2019-06/lecutre-book</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2019-06/jekyll-blog</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ur-luella.github.io/articles/2019-06/overfitting</loc>
+  <lastmod>2020-08-30T17:26:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
